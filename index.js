@@ -1,3 +1,8 @@
 class BoardMember {
-  constractor()
+  constractor(name, homeState, training){
+    this.name = name;
+    this.homeState = homeState;
+    this.training = training;
+    
+  }
 }
