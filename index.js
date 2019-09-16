@@ -1,1 +1,3 @@
-class BoardMember 
+class BoardMember {
+  constractor()
+}
